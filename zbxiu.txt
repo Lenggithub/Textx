@@ -1,3 +1,4 @@
+#genre#
 1	CCTV1综合	rtmp://weishi.jshfgy.cn/weishi/1234_cctv1A
 2	CCTV2财经	rtmp://weishi.jshfgy.cn/weishi/1234_cctv2
 3	cctv3综艺	rtmp://weishi.jshfgy.cn/weishi/1234_cctv3
